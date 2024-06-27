@@ -1,6 +1,5 @@
 # Welcome to Soichiro Profile!
 
-![Header](https://github.com/your-username/your-username/raw/main/header.png)
 
 ## Hi there, I'm Soichiro! 👋
 
@@ -17,6 +16,22 @@ Here are some things about me:
 
 ![Portfolio](https://github.com/soichi-berson/portfolio))
 
+
+### 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📈 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&hide_border=true)
+
+### 🔥 My Streak
+
+![John's Streak](https://github-readme-streak-stats.herokuapp.com/?user=john-doe&hide_border=true)
+
+### 🌟 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact&hide_border=true)
 
 ---
 
